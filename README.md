@@ -4,6 +4,9 @@
 魔改FanhuaCloud
 此为备份repo
 
+###禁用ipv6
+如果需要禁用服务端ipv6（cannot parse header ::::xxx.xxx.xxx.xxx），请编辑/usr/local/shadowsocksr/user-config.json 与 config.json，去除ipv6行
+
 #### 下载安装
 ------------
 ```shell
